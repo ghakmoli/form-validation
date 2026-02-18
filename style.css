@@ -13,7 +13,7 @@ button {
     color: #121726;
     border: none;
     border-radius: 8px;
-    
+    font-weight: bold;
 }
 input {
   width: 100%;
