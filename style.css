@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #f2f2f2;
+    display: flex;
+    justify-content: center;  
+    align-items: center;       
+    height: 100vh;   
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #F2EA77;
+    color: #121726;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color: #f2f2f272;
+  border-radius: 8px;
+  color: #f2f2f2;
+  }
+  input:focus {
+  background-color: #F2EA77;
+  color: #121726;
+}
+form {
+    width: 350px;
+}
+.container {
+    background: #121726;
+    padding: 30px;
+    border-radius: 8px;
+    width: 350px;
+}
+#output{
+    margin-top: 15px;
+    
+    text-align: center;
+}
